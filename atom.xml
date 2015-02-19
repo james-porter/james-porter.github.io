@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[jamesporter.me.uk]]></title>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-02-19T21:46:13+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Hello Sculpin and Github]]></title>
+            <link href="/blog/2015/02/03/first-post"/>
+            <updated>2015-02-03T00:00:00+00:00</updated>
+            <id>/blog/2015/02/03/first-post</id>
+            <content type="html"><![CDATA[<h1>Hello Sculpin and Guthub</h1>
+
+<p>I'm just playing with Sculpin and Github. Trying to workout how best to manage a Sculpin Blog.</p>
+]]></content>
+        </entry>
+    </feed>
